@@ -1,4 +1,4 @@
-list = input('Please enter the name of the wordlist to use (must be in the current directory: ')
+list = input('Please enter the name of the wordlist to use (must be in the current directory): ')
 password_list1 = []
 password_list2 = []
 final_list = []
