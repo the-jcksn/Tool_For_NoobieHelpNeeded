@@ -8,7 +8,7 @@ How to use this?
 >
 >3. Save that list as something like 'wordlist.txt'
 >
->4.Run the script
+>4. Run the script
 >
 >5. When it asks you, provide the full name of the wordlist you made (in the same directory)
 >
