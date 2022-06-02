@@ -1,6 +1,8 @@
 # Tool_For_NoobieHelpNeeded
 Generates all possible combinations of the password you asked for
 
+You might want to edit the list of special character in the script (called 'special') and add some or take some out, depending on which ones you think he might have used.
+
 How to use this?
 >1. Download the passgen.py script
 >
